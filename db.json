@@ -1,0 +1,60 @@
+{
+  "dailyRecords": [
+    {
+      "id": "7eaa",
+      "date": "2025-05-29",
+      "waterIntake": 2000,
+      "sleepHours": 8,
+      "exercise": "วิ่ง",
+      "stressLevel": "ต่ำ"
+    },
+    {
+      "id": "f85d",
+      "date": "2025-05-30",
+      "waterIntake": 2500,
+      "sleepHours": 6,
+      "exercise": "เดิน",
+      "stressLevel": "ปานกลาง"
+    },
+    {
+      "id": "75ae",
+      "date": "2025-05-31",
+      "waterIntake": 2400,
+      "sleepHours": 7,
+      "exercise": "เดิน",
+      "stressLevel": "ปานกลาง"
+    },
+    {
+      "id": "1172",
+      "date": "2025-06-01",
+      "waterIntake": 2200,
+      "sleepHours": 6,
+      "exercise": "ปั่นจักรยาน",
+      "stressLevel": "สูง"
+    },
+    {
+      "id": "e410",
+      "date": "2025-06-03",
+      "waterIntake": 2500,
+      "sleepHours": 6,
+      "exercise": "โยคะ",
+      "stressLevel": "ต่ำ"
+    },
+    {
+      "id": "3a3a",
+      "date": "2025-06-04",
+      "waterIntake": 2100,
+      "sleepHours": 8,
+      "exercise": "ยิม",
+      "stressLevel": "ต่ำ"
+    },
+    {
+      "id": "6c8e",
+      "date": "2025-06-05",
+      "waterIntake": 2600,
+      "sleepHours": 7,
+      "exercise": "โยคะ",
+      "stressLevel": "ปานกลาง"
+    }
+  ]
+}
